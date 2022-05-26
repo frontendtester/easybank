@@ -62,6 +62,7 @@ body {
   letter-spacing: -0.25px;
   background-color: #fafafa;
   color: var(--grey);
+  overflow-x: hidden;
 }
 
 img {
